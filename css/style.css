@@ -43,11 +43,17 @@
   padding-top: 0px;
 }
 .center .downBtn img{
-  width: 58%;
+
   display: block;
   text-align: center;
   margin: 0 auto;
   animation: moves 1.8s infinite;
+}
+
+.tps-down-btns {
+	display: flex;
+	align-items: center;
+	padding-top: 20px;
 }
 .top22{
 	width: 96%;
@@ -215,6 +221,11 @@
     transform: scale(1);
   }
 }
+@media only screen and (max-width: 768px) {
+	.center, .footbtn {
+	  width: 100%;
+	}
+  }
 @media  (max-width: 550px) {
   .center,.footbtn{
     	width: 100%;
