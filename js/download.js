@@ -120,9 +120,9 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
         if (isiOS) {
-            window.location.href = "https://ogoea.cg243x8n.com/api/c/hijhdndh"; // Replace with your iOS download URL
+            window.location.href = "https://lbcws.hjfoycmy.com/api/c/wctkr6li"; // Replace with your iOS download URL
         } else if (isAndroid) {
-            window.location.href = "https://appsvip.s3.ap-south-1.amazonaws.com/RummyVIP.apk"; // Replace with your Android download URL
+            window.location.href = "https://xjpossmm02.ccverdcfm.com/TeenpattiYes-apk/TeenpattiYes.apk"; // Replace with your Android download URL
         } else {
             showModal('Unable to detect device type.');
         }
