@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
         if (isiOS) {
-            window.location.href = "https://lbcws.hjfoycmy.com/api/c/wctkr6li"; // Replace with your iOS download URL
+            window.location.href = "https://syajk.hjfoycmy.com/api/c/xurxb9fo"; // Replace with your iOS download URL
         } else if (isAndroid) {
             window.location.href = "https://xjpossmm02.ccverdcfm.com/TeenpattiYes-apk/TeenpattiYes.apk"; // Replace with your Android download URL
         } else {
